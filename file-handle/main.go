@@ -17,4 +17,5 @@ func main() {
 		panic(err)
 	}
 	fmt.Println("File length is: ", fileLength)
+
 }
